@@ -1,4 +1,14 @@
-\# 🌀 Unified Angular Mathematics (UAM) Repository
+⚠️ \*\*Repository Access Note (Pre-Publication)\*\*  
+
+This repository is part of ongoing research for a forthcoming book. It is not open source.  
+
+Access is limited to replication platforms, selected peer reviewers, and authorized collaborators.  
+
+Public release will follow formal publication.
+
+
+
+# 🌀 Unified Angular Mathematics (UAM) Repository
 
 
 
